@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://xujia-liu.github.io/sitemap.xml
+Sitemap: https://Xujia-Liu.github.io/sitemap.xml
