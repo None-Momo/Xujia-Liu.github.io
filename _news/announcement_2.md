@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-2025.11 接到UW-Madison转学录取（English）
+Received Transfer Admission from UW-Madison
