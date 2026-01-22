@@ -34,8 +34,8 @@ latest_posts:
   }
 </style>
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I'm Xujia Liu, currently a visiting student in Computer Science at UC Berkeley and will be transferring to the University of Wisconsin-Madison in Fall 2026 to pursue my B.S. in Computer Science. My research interests lie in Human-Computer Interaction (HCI) and Virtual Reality (VR), with a particular focus on emotion and affective computing in VR experiences, VR for education, and accessible and inclusive design. 
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+During the summer of 2025, I joined the HER Lab at Xi'an Jiaotong-Liverpool University through the HCI+ program, supervised by Dr. Yue Li, where I explored emotion detection in VR co-experiences using physiological signals. 
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I firmly believe that technology should always serve people, and my ultimate goal is to create an accessible world where everyone, regardless of their abilities, can equally benefit from technological innovations. If you'd like to learn more about my thoughts and research journey, feel free to take 2 minutes to read my [blog](/blog/).
