@@ -299,6 +299,10 @@ ul.task-list input[type="checkbox"] {
 
   .navbar-brand {
     color: var(--global-text-color);
+
+    &.title {
+      font-family: "EB Garamond", serif;
+    }
   }
 
   .navbar-nav .nav-item .nav-link {
@@ -592,6 +596,8 @@ footer.sticky-bottom {
 }
 
 .post-title {
+  font-family: "EB Garamond", serif;
+
   mjx-container[jax="CHTML"][display="true"] {
     display: unset;
   }
