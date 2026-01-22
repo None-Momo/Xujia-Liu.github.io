@@ -9,8 +9,8 @@ nav_order: 2
 
 <style>
   :root {
-    --global-theme-color: #0066cc;
-    --global-hover-color: #0066cc;
+    --global-theme-color: #b509ac;
+    --global-hover-color: #b509ac;
   }
 </style>
 
