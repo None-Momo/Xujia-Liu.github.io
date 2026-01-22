@@ -16,6 +16,13 @@ pagination:
     after: 3 # The number of links after the current page
 ---
 
+<style>
+  :root {
+    --global-theme-color: #28a745;
+    --global-hover-color: #28a745;
+  }
+</style>
+
 <div class="post">
 
 {% assign blog_name_size = site.blog_name | size %}
