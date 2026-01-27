@@ -42,4 +42,6 @@ regardless of their abilities, can equally benefit from technological innovation
 <br>
 Even for individuals who are currently able-bodied, **there is no guarantee that they will never encounter challenges** similar to those faced by people who are Blind or Low Vision, Deaf or Hard of Hearing, or with Learning Disabilities. Recognizing this shared vulnerability is what makes accessibility research deeply meaningful.
 <br>
-If you'd like to get to know me better, feel free to take 3 minutes to read my [blog](/blog/)(Personal Reflections about Why Accessibility/HCI/US).
+If you'd like to get to know me better, feel free to take 3 minutes to read my [blog](/blog/)
+<br>
+(Personal Reflections about Why Accessibility/HCI/US).
