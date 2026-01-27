@@ -30,15 +30,15 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/projects/";
           },
-        },{id: "post-why-i-came-to-study-in-the-us",
+        },{id: "post-",
         
-          title: "Why I Came to Study in the US",
+          title: "",
         
-        description: "A reflection on my journey and motivations for studying in the United States",
+        description: "",
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2026/why-i-came-to-study-in-the-us/";
+            window.location.href = "/blog/2026/2026-01-20-why-i-came-to-study-in-the-us/";
           
         },
       },{id: "post-why-accessibility-a-personal-reflection-chinese-version",
